@@ -1,0 +1,6 @@
+C:\Users\apilati\source\repos\Chinese_converter\Chinese_converter\bin\Debug\Chinese_converter.exe.config
+C:\Users\apilati\source\repos\Chinese_converter\Chinese_converter\bin\Debug\Chinese_converter.exe
+C:\Users\apilati\source\repos\Chinese_converter\Chinese_converter\bin\Debug\Chinese_converter.pdb
+C:\Users\apilati\source\repos\Chinese_converter\Chinese_converter\obj\Debug\Chinese_converter.csprojAssemblyReference.cache
+C:\Users\apilati\source\repos\Chinese_converter\Chinese_converter\obj\Debug\Chinese_converter.exe
+C:\Users\apilati\source\repos\Chinese_converter\Chinese_converter\obj\Debug\Chinese_converter.pdb
